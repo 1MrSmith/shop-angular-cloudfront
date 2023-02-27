@@ -20,6 +20,15 @@ http://shop-angular-cloudfront-sls.s3-website-eu-west-1.amazonaws.com/
 
 https://d2nu6079bnm48e.cloudfront.net
 
+# TASK3: First API with AWS API Gateway and AWS Lambda
+
+## endpoints:
+
+```
+    - GET - https://9qhyrydex7.execute-api.eu-west-1.amazonaws.com/dev/api/products
+    - GET - https://9qhyrydex7.execute-api.eu-west-1.amazonaws.com/dev/api/products/{id}
+```
+
 # Shop Angular Cloudfront
 
 Angular version: ~12.
